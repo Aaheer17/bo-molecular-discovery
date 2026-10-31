@@ -127,4 +127,4 @@ The current loop selects one molecule per round, while experimental campaigns ty
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
