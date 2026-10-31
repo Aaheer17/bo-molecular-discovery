@@ -1,0 +1,4 @@
+strategy,recall_mean,recall_se,gain_over_init_mean,seeds_with_new_hit,gp_fit_failures,gp_fit_warnings,seconds
+random,0.18000000000000002,0.03598245186344676,0.15,15/20,0,0,0.1
+greedy,0.5049999999999999,0.0815878602940929,0.475,15/20,0,0,128.1
+ei,0.76,0.04611199181854633,0.73,20/20,0,0,120.9

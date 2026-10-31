@@ -1,0 +1,24 @@
+{
+  "args": {
+    "data": "https://raw.githubusercontent.com/deepchem/deepchem/master/datasets/delaney-processed.csv",
+    "mw_min": 250.0,
+    "n_init": 10,
+    "budget": 50,
+    "top_k": 10,
+    "seeds": 20,
+    "strategies": [
+      "random",
+      "greedy",
+      "ei"
+    ],
+    "out": "results"
+  },
+  "data": {
+    "invalid_smiles": 0,
+    "duplicates_merged": 13,
+    "empty_fingerprints": 0,
+    "pool_size": 350
+  },
+  "top_set_size": 10,
+  "logS_threshold": -0.85
+}
