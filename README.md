@@ -66,7 +66,7 @@ For fair comparison, all strategies start from the same 10 random molecules for 
 Requires [Miniforge](https://github.com/conda-forge/miniforge).
 
 ```bash
-git clone https://github.com/<your-username>/bo-molecular-discovery.git
+git clone [https://github.com/<your-username>/bo-molecular-discovery.git](https://github.com/Aaheer17/bo-molecular-discovery.git)
 cd bo-molecular-discovery
 mamba env create -f environment.yml
 conda activate bo-esol
